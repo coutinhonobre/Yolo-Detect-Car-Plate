@@ -1,0 +1,3 @@
+label-studio
+scikit-learn
+ultralytics
